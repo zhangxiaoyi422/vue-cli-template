@@ -18,7 +18,7 @@ Vue.config.productionTip = false //提示信息
 Vue.prototype.$http = axios;
 Vue.prototype.qs = qs;
 Vue.prototype.getQueryString = getQueryString;
-Vue.use(iView);
+Vue.use(iView);asdsa d 
 
 /* eslint-disable no-new */
 new Vue({
